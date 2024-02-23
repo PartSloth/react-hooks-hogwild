@@ -140,6 +140,23 @@ ul {
   clear: both;
 }
 
+.pigPicture {
+  min-height: 290px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.header {
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+}
+
+button {
+  margin-right: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
